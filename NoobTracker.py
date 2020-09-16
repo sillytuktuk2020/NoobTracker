@@ -22,7 +22,7 @@ from core.profilerFunc import profilerFunc
 from core.searchNumber import searchNumber
 #Other tool menu
 from core.hashDecrypt import hashdecrypt
-
+os.system("date")
 
 #Help & settings
 from txt.help import helpLookup
