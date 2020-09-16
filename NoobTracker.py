@@ -238,7 +238,7 @@ try:
 					sys.exit("\n"+information+" Bye ! :)")
 				else:
 					pass
-					# print("Commande introuvable")
+					# print("Command not found")
 		elif choix == '2':
 			clear()
 			menu()
